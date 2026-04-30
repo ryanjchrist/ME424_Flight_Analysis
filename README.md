@@ -109,7 +109,7 @@ Samples must simultaneously satisfy all of the following to be included in the p
 
 ## Stall Speed Methodology
 
-Direct stall maneuvers were not performed — at RC glider scale an intentional stall risks structural damage and yields only a single data point. Instead, stall speed is estimated from the lowest airspeed readings recorded during normal unpowered glide.
+Stall speed is estimated from the lowest airspeed readings recorded during normal unpowered glide.
 
 During each glide the pilot modulated pitch continuously, producing a range of airspeeds from slow near-stall flight to moderate cruise. The lowest 10% of airspeed samples from each configuration's glide segments are averaged to produce the stall speed estimate. This provides multiple data points for redundancy against individual sensor noise or gust spikes, rather than relying on a single event. A lower value between configurations indicates the aircraft was routinely flying at slower controlled airspeeds, consistent with a higher C_L_max from flap deployment.
 
